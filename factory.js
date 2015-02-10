@@ -1,3 +1,5 @@
+//All functions copied from http://addyosmani.com/resources/essentialjsdesignpatterns/book/
+
 function Car( options ) {
 
 	this.doors = options.doors || 4;

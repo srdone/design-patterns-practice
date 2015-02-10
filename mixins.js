@@ -1,3 +1,5 @@
+//All functions copied from http://addyosmani.com/resources/essentialjsdesignpatterns/book/
+
 var myMixins = {
 
 	moveUp: function () {

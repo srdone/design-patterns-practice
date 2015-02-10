@@ -1,3 +1,5 @@
+//All functions copied from http://addyosmani.com/resources/essentialjsdesignpatterns/book/
+
 function Vehicle (vehicleType) {
 
 	this.vehicleType = vehicleType || 'car';
